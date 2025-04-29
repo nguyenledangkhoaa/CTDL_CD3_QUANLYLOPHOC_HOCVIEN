@@ -1,0 +1,13 @@
+Danh sach hoc bong
+MA HOC VIEN  HO LOT            TEN   SINH NGAY    THANG     NAM    MA LOP     DIEM
+11332       Nguyen Van        Minh      13          5      2004    14DH1      9.25
+11333       Nguyen Minh        Anh      23          8      2005    14DH2      8.50
+201         Nguyen Van          Ti       2          4      2000    14DH2     10.00
+11334       Le Minh           Phat      13          9      2005    14DH3     10.00
+12633       Ho Nhat          Trung       1          9      2001    14DH3      8.00
+10648       Thanh Tuan        Dang       7         12      2000    14DH4      9.00
+11999       Phan Ho           Thuy      12          8      2002    15DH5      9.00
+11099       Tran Thanh         Tam      20          8      2005    15DH5     10.00
+12043       Ho Le             Minh      23          4      2003    18DH7      9.00
+10463       Khoi               Ngo       7          3      2000    18DH7     10.00
+18424       Nhu               Ngoc       4          2      2001    18DH7      9.00
